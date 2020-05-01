@@ -1,0 +1,36 @@
+#username
+safi
+#password
+Testing123
+
+#run server
+python manage.py runserver _|portNo|_
+#quit
+ctrl+c
+
+#create project
+django-admin startproject _projectname_
+#create app
+python manage.py startapp _appname_
+
+
+
+#make migration
+python manage.py makemigrations _appname_
+#migrate
+python manage.py migrate
+
+#see sql changes to migration
+python manage.py sqlmigrate _appname_ _migration_id_
+#shell
+python manage.py shell
+
+
+#create superuser
+python manage.py createsuperuser
+
+
+##start listener##non django#start as admin
+lsnrctl start
+##for permanent startup use oracle net manager
+#listener->general params->general options->save config on shut down
