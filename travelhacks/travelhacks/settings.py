@@ -78,8 +78,7 @@ WSGI_APPLICATION = 'travelhacks.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/3.0/ref/settings/#databases
 
-#
-'''
+#'''
 #Given
 DATABASES = {
     'default': {
