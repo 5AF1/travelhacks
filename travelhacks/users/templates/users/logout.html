@@ -1,0 +1,12 @@
+{% extends "mainapp/base.html" %}
+{%block titles%}Intro{%endblock titles%}
+{%block content%}
+    <div class="content-section">
+        <h1>You have been logged out.</h1>
+        <div class="border-top pt-3">
+            <small class="text-muted">
+                <a class="ml-2" href="{% url 'login'%}">Sign in</a>
+            </small>
+        </div>
+    </div>
+{%endblock content%}

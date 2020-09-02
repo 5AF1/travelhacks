@@ -1,7 +1,7 @@
 #username
-safi
+safi    5AF1
 #password
-Testing123
+Testing753  Testing163
 
 #run server
 python manage.py runserver _|portNo|_
@@ -24,10 +24,32 @@ python manage.py migrate
 python manage.py sqlmigrate _appname_ _migration_id_
 #shell
 python manage.py shell
+#######inside shell#######
+###1###
+from mainapp.models import Post
+from django.contrib.auth.models import User
+User.objects.all()
+User.objects.first()
+User.objects.filter(pk = 1)
+User.objects.get(pk = 1)
+us = User.objects.get(pk = 1)
+us.id
+Post.objects.all()
+post_1 = Post(title = 'Blog 1', content = 'First post Content!' , author = us)
+post_1.save()
+post_2 = Post(title = 'Blog 2', content = 'Sec post Content!' , author_id = us.id)
+post_2.save()
+post_2.date_posted
+us.post_set.all()
+us = User.objects.filter(username = '5AF1')
+us.post_set.create(title = 'Blog 3', content = 'Third post Content!')
+##########################
 
 
 #create superuser
 python manage.py createsuperuser
+###usernamer :: safi
+###pass :: Testing123
 
 
 ##start listener##non django#start as admin

@@ -1,7 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8376ebe-bb2b-45df-b4e8-85e07bbd8a6c" name="Default Changelist" comment="" />
+    <list default="true" id="f8376ebe-bb2b-45df-b4e8-85e07bbd8a6c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/travelhacks/mainapp/Static/mainapp/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travelhacks/mainapp/Templates/mainapp/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travelhacks/mainapp/Templates/mainapp/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travelhacks/mainapp/Templates/mainapp/intro.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travelhacks/mainapp/Templates/mainapp/post_confirm_delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travelhacks/mainapp/Templates/mainapp/post_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travelhacks/mainapp/Templates/mainapp/post_form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travelhacks/mainapp/Templates/mainapp/user_posts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travelhacks/media/default.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travelhacks/media/profile_pics/Capture2.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travelhacks/media/profile_pics/Capture2_8wk2FWD.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travelhacks/media/profile_pics/rsz_1picture_kuet.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travelhacks/users/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travelhacks/users/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travelhacks/users/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travelhacks/users/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travelhacks/users/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travelhacks/users/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travelhacks/users/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travelhacks/users/signals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travelhacks/users/templates/users/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travelhacks/users/templates/users/logout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travelhacks/users/templates/users/password_reset.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travelhacks/users/templates/users/password_reset_complete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travelhacks/users/templates/users/password_reset_confirm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travelhacks/users/templates/users/password_reset_done.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travelhacks/users/templates/users/profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travelhacks/users/templates/users/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travelhacks/users/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travelhacks/users/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelhacks/commoncmd" beforeDir="false" afterPath="$PROJECT_DIR$/travelhacks/commoncmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelhacks/mainapp/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/travelhacks/mainapp/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelhacks/mainapp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/travelhacks/mainapp/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelhacks/mainapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/travelhacks/mainapp/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelhacks/mainapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/travelhacks/mainapp/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelhacks/travelhacks/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/travelhacks/travelhacks/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelhacks/travelhacks/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/travelhacks/travelhacks/urls.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,18 +50,27 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZqVc5VdkOIg7L5Z1YEbvUXM3dh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunManager">
     <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -52,6 +100,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -65,38 +114,52 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="260" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588177027577">
+    <state x="486" y="168" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1596814102384">
       <screen x="74" y="0" width="1462" height="864" />
     </state>
-    <state x="260" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/74.0.1462.864@74.0.1462.864" timestamp="1588177027577" />
-    <state x="554" y="235" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585923311706">
+    <state x="486" y="168" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/74.0.1462.864@74.0.1462.864" timestamp="1596814102384" />
+    <state width="1441" height="224" key="GridCell.Tab.0.bottom" timestamp="1596637199789">
       <screen x="74" y="0" width="1462" height="864" />
     </state>
-    <state x="554" y="235" key="#com.intellij.fileTypes.FileTypeChooser/74.0.1462.864@74.0.1462.864" timestamp="1585923311706" />
-    <state width="720" height="224" key="GridCell.Tab.0.bottom" timestamp="1585855764248">
+    <state width="1441" height="224" key="GridCell.Tab.0.bottom/74.0.1462.864@74.0.1462.864" timestamp="1596637199789" />
+    <state width="1441" height="224" key="GridCell.Tab.0.center" timestamp="1596637199789">
       <screen x="74" y="0" width="1462" height="864" />
     </state>
-    <state width="720" height="224" key="GridCell.Tab.0.bottom/74.0.1462.864@74.0.1462.864" timestamp="1585855764248" />
-    <state width="720" height="224" key="GridCell.Tab.0.center" timestamp="1585855764248">
+    <state width="1441" height="224" key="GridCell.Tab.0.center/74.0.1462.864@74.0.1462.864" timestamp="1596637199789" />
+    <state width="1441" height="224" key="GridCell.Tab.0.left" timestamp="1596637199789">
       <screen x="74" y="0" width="1462" height="864" />
     </state>
-    <state width="720" height="224" key="GridCell.Tab.0.center/74.0.1462.864@74.0.1462.864" timestamp="1585855764248" />
-    <state width="720" height="224" key="GridCell.Tab.0.left" timestamp="1585855764248">
+    <state width="1441" height="224" key="GridCell.Tab.0.left/74.0.1462.864@74.0.1462.864" timestamp="1596637199789" />
+    <state width="1441" height="224" key="GridCell.Tab.0.right" timestamp="1596637199789">
       <screen x="74" y="0" width="1462" height="864" />
     </state>
-    <state width="720" height="224" key="GridCell.Tab.0.left/74.0.1462.864@74.0.1462.864" timestamp="1585855764248" />
-    <state width="720" height="224" key="GridCell.Tab.0.right" timestamp="1585855764248">
+    <state width="1441" height="224" key="GridCell.Tab.0.right/74.0.1462.864@74.0.1462.864" timestamp="1596637199789" />
+    <state x="144" y="47" key="SettingsEditor" timestamp="1597066678487">
       <screen x="74" y="0" width="1462" height="864" />
     </state>
-    <state width="720" height="224" key="GridCell.Tab.0.right/74.0.1462.864@74.0.1462.864" timestamp="1585855764248" />
-    <state x="144" y="47" key="SettingsEditor" timestamp="1588177191911">
+    <state x="144" y="47" key="SettingsEditor/74.0.1462.864@74.0.1462.864" timestamp="1597066678487" />
+    <state x="615" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589540081346">
       <screen x="74" y="0" width="1462" height="864" />
     </state>
-    <state x="144" y="47" key="SettingsEditor/74.0.1462.864@74.0.1462.864" timestamp="1588177191911" />
-    <state x="501" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1588317895136">
+    <state x="615" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/74.0.1462.864@74.0.1462.864" timestamp="1589540081346" />
+    <state x="468" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1594050957503">
       <screen x="74" y="0" width="1462" height="864" />
     </state>
-    <state x="501" y="256" key="com.intellij.ide.util.TipDialog/74.0.1462.864@74.0.1462.864" timestamp="1588317895136" />
+    <state x="468" y="181" width="672" height="678" key="search.everywhere.popup/74.0.1462.864@74.0.1462.864" timestamp="1594050957503" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/travelhacks/users/models.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
