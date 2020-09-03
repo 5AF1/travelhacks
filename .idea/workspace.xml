@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8376ebe-bb2b-45df-b4e8-85e07bbd8a6c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/travelhacks/media/profile_pics/fff.PNG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/travelhacks/travelhacks/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/travelhacks/travelhacks/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/travelhacks/users/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/travelhacks/users/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +34,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
     <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -104,28 +102,13 @@
       <screen x="74" y="0" width="1462" height="864" />
     </state>
     <state width="1441" height="224" key="GridCell.Tab.0.right/74.0.1462.864@74.0.1462.864" timestamp="1596637199789" />
-    <state x="144" y="47" key="SettingsEditor" timestamp="1597066678487">
+    <state x="187" y="128" key="SettingsEditor" timestamp="1599071252621">
       <screen x="74" y="0" width="1462" height="864" />
     </state>
-    <state x="144" y="47" key="SettingsEditor/74.0.1462.864@74.0.1462.864" timestamp="1597066678487" />
-    <state x="615" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589540081346">
-      <screen x="74" y="0" width="1462" height="864" />
-    </state>
-    <state x="615" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/74.0.1462.864@74.0.1462.864" timestamp="1589540081346" />
+    <state x="187" y="128" key="SettingsEditor/74.0.1462.864@74.0.1462.864" timestamp="1599071252621" />
     <state x="468" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1594050957503">
       <screen x="74" y="0" width="1462" height="864" />
     </state>
     <state x="468" y="181" width="672" height="678" key="search.everywhere.popup/74.0.1462.864@74.0.1462.864" timestamp="1594050957503" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/travelhacks/users/models.py</url>
-          <line>14</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

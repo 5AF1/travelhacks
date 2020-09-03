@@ -25,7 +25,7 @@ SECRET_KEY = '5z3kbqviankd6p48r5++f98au91elr9p@qvt&os#l9$2$68ae%'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [] #['testsitemybd.ddns.net','localhost', ]
+ALLOWED_HOSTS = []#'travelhacks101.pythonanywhere.com'] #['testsitemybd.ddns.net','localhost', ]
 
 
 # Application definition
@@ -59,7 +59,7 @@ ROOT_URLCONF = 'travelhacks.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': ["/home/travelhacks101/travelhacks/travelhacks/mainapp/Templates","/home/travelhacks101/travelhacks/travelhacks/users/templates","/home/travelhacks101/travelhacks/travelhacks/mainapp/Static"],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -137,6 +137,8 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/3.0/howto/static-files/
 
 STATIC_URL = '/static/'
+STATIC_ROOT = '/home/travelhacks101/travelhacks/travelhacks/mainapp/Static'
+
 
 MEDIA_ROOT = os.path.join(BASE_DIR,'media')
 MEDIA_URL = '/media/'
