@@ -13,7 +13,13 @@
               <small class="text-muted">{{ post.date_posted|date:"F d, Y" }}</small>
             </div>
             <h2><a class="article-title" href="{% url 'post-detail' post.id%}">{{ post.title }}</a></h2>
-            <p class="article-content">{{ post.content }}</p>
+              {% if post.content|length > 50 %}
+                    <p class="article-content">{{ post.content|slice:":50" }}....</p>
+              {% else %}
+                    <p class="article-content">{{ post.content }}</p>
+              {% endif %}
+              <img class="rounded" src="{{ post.image1.url }}">
+              <img class="rounded" src="{{ post.image2.url }}">
           </div>
         </article>
     {%endfor%}

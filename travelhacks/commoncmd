@@ -50,6 +50,7 @@ us.post_set.create(title = 'Blog 3', content = 'Third post Content!')
 python manage.py createsuperuser
 ###usernamer :: safi
 ###pass :: Testing123
+###Safi
 
 
 ##start listener##non django#start as admin

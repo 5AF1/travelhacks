@@ -2,8 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8376ebe-bb2b-45df-b4e8-85e07bbd8a6c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/travelhacks/mainapp/migrations/0004_auto_20200903_1127.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travelhacks/media/post_pics/102938333_553762042245952_945061083568280329_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travelhacks/media/post_pics/4c9giy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travelhacks/media/post_pics/4dap9x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travelhacks/media/post_pics/4dapkk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travelhacks/media/post_pics/84572768_1277207142476477_7509939265552252928_o.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travelhacks/media/post_pics/84572768_1277207142476477_7509939265552252928_o_ELXmUhp.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travelhacks/media/post_pics/84572768_1277207142476477_7509939265552252928_o_WUVympo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travelhacks/media/post_pics/84572768_1277207142476477_7509939265552252928_o_ceHniF0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travelhacks/media/post_pics/ad.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/travelhacks/travelhacks/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/travelhacks/travelhacks/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelhacks/commoncmd" beforeDir="false" afterPath="$PROJECT_DIR$/travelhacks/commoncmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelhacks/mainapp/Templates/mainapp/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/travelhacks/mainapp/Templates/mainapp/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelhacks/mainapp/Templates/mainapp/post_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/travelhacks/mainapp/Templates/mainapp/post_detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelhacks/mainapp/Templates/mainapp/post_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/travelhacks/mainapp/Templates/mainapp/post_form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelhacks/mainapp/Templates/mainapp/user_posts.html" beforeDir="false" afterPath="$PROJECT_DIR$/travelhacks/mainapp/Templates/mainapp/user_posts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelhacks/mainapp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/travelhacks/mainapp/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travelhacks/mainapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/travelhacks/mainapp/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
